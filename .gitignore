@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log*
+
+#IDE metadata
+**.idea/**
+.idea
+.idea/
+.vscode/
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# dotenv
+.env
+
+# Artifacts
+media/
+.DS_Store
+
+# Application
+*.db
+
+#Static folders
+static/
+htmlcov/
+
+
+#Compiled files
+program
+*.o
+*.out
+
+#System files
+.DS_Store
+*.swp
+*.tmp
